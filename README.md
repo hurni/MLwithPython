@@ -1,4 +1,4 @@
 # MLwithPython
-## Projekct for the CAS WInterSchool
+## Project for the CAS WInterSchool
 
 Machine learning with Python (TensorFlow)
